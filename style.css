@@ -1,0 +1,21 @@
+body{
+    background: black;
+}
+.root{
+    display: flex;
+}
+h1{
+    align-items: center;
+    color: black;
+    margin-left: 50px;
+    margin-top: -.2px;
+    margin-top: 7px;
+}
+.samsung{
+    width: 25%;
+    height: 60px;
+    background-color:white;
+    border-radius:50%;
+    margin: auto;
+    margin-top: 200px;
+}
